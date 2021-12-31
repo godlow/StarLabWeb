@@ -3,5 +3,5 @@
 ### what's this !??
 >* This is apart from my first project in html / css, the web of my model rocket company [StarLab](https://www.starlabrpl.tk/) 
 
-##### Disclaimer:
+##### Btw:
 * ⚠️ ***Experimental version***
